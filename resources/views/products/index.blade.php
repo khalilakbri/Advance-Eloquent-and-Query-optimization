@@ -1,5 +1,5 @@
 <div>
-    <h1>Product List</h1>
+    <h1>Product List for all</h1>
     <ol>
         @foreach($products as $product)
             <li>
